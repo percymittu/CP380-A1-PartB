@@ -1,0 +1,36 @@
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.deps.json
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\ref\RatingAdjustmentService.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.pdb
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\ref\RatingAdjustmentService.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.pdb
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.deps.json
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\ref\RatingAdjustmentService.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.pdb
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.csprojAssemblyReference.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.AssemblyInfoInputs.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.AssemblyInfo.cs
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.csproj.CoreCompileInputs.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\ref\RatingAdjustmentService.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.pdb
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.deps.json
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\ref\RatingAdjustmentService.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\bin\Debug\net5.0\RatingAdjustmentService.pdb
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.csproj.AssemblyReference.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.AssemblyInfoInputs.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.AssemblyInfo.cs
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.csproj.CoreCompileInputs.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\ref\RatingAdjustmentService.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\RatingAdjustmentService\obj\Debug\net5.0\RatingAdjustmentService.pdb

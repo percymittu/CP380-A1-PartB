@@ -1,0 +1,164 @@
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\data\breadmakers.db
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.exe
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.deps.json
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.runtimeconfig.json
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\ref\BreadmakerReport.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.pdb
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\RatingAdjustmentService.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\RatingAdjustmentService.pdb
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.CopyComplete
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\ref\BreadmakerReport.dll
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.pdb
+C:\Users\Admin\Downloads\Percy\urgent\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.genruntimeconfig.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\data\breadmakers.db
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.exe
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.deps.json
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.runtimeconfig.json
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.runtimeconfig.dev.json
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\ref\BreadmakerReport.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.pdb
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\System.Collections.Immutable.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\RatingAdjustmentService.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\RatingAdjustmentService.pdb
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csprojAssemblyReference.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.GeneratedMSBuildEditorConfig.editorconfig
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.AssemblyInfoInputs.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.AssemblyInfo.cs
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.CoreCompileInputs.cache
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.CopyComplete
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\ref\BreadmakerReport.dll
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.pdb
+E:\Heema\2\02-Percy\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.genruntimeconfig.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\data\breadmakers.db
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.exe
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.deps.json
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.runtimeconfig.json
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.runtimeconfig.dev.json
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\ref\BreadmakerReport.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\BreadmakerReport.pdb
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\RatingAdjustmentService.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\bin\Debug\net5.0\RatingAdjustmentService.pdb
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.AssemblyReference.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.AssemblyInfoInputs.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.AssemblyInfo.cs
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.CoreCompileInputs.cache
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.csproj.CopyComplete
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\ref\BreadmakerReport.dll
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.pdb
+D:\sem 4\dotnet\CP380-A2-ConsoleApp-master\BreadmakerReport\obj\Debug\net5.0\BreadmakerReport.genruntimeconfig.cache
